@@ -9,7 +9,7 @@ Brainfuck interpreter written in Rust
 
 
 # References
-1. Wikipedia - https://en.wikipedia.org/wiki/Brainfuck#Hello_World!
+1. Wikipedia - https://en.wikipedia.org/wiki/Brainfuck
 2. Gist from GitHub User roachhd - https://gist.github.com/roachhd/dce54bec8ba55fb17d3a
 
 
@@ -17,3 +17,4 @@ Brainfuck interpreter written in Rust
 1. Add more optimizations for looped operations
 2. Look into assembly generations, libc calls, and implement JIT compiler
 3. Include more interesting and complicated examples
+4. Better/Custom error handling
